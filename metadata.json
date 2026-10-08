@@ -1,0 +1,6 @@
+{
+  "name": "Quest-Learn",
+  "description": "Platform gamifikasi interaktif untuk meningkatkan motivasi dan keterlibatan belajar siswa berbasis misi berjenjang, kerja tim, dan analitik performa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
